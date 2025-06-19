@@ -1,4 +1,4 @@
-# 1. Jenkins安装
+# Jenkins安装
 
 ## 1.1 APT安装
 
@@ -64,7 +64,7 @@
    ```
 
 
-# 2. Jenkins配置
+# Jenkins配置
 
 ## 2.1 初始配置
 
@@ -72,7 +72,7 @@
 
    初始配置按照指引操作即可(查看下面的图片)。
 
-   ![image-20250523230026884](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250523230026884.png)
+   ![image-20250523230026884](.\Picture\image-20250523230026884.png)
 
    ![image-20250523231951368](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250523231951368.png)
 
@@ -140,7 +140,7 @@
 
    
 
-# 3. Jenkins使用
+# Jenkins使用
 
 ## 3.1 创建拉取、编译、打包代码任务
 
@@ -172,7 +172,7 @@
 
    ![image-20250525233930357](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250525233930357.png)
 
-# 4. 问题记录
+# 问题记录
 
 ## 4.1 插件加载
 
